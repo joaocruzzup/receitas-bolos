@@ -13,4 +13,4 @@ Além disso, na pasta [imagens](https://github.com/joaocruzzup/receitas-bolos/tr
 - [Nicoly Barros](https://github.com/NicolyZup)
 
 ### Seção de Créditos das Imagens
-As imagens presentes na pasta [imagens](https://github.com/joaocruzzup/receitas-bolos/tree/main/imagens) foram do https://www.tudogostoso.com.br/
+As imagens presentes na pasta [imagens](https://github.com/joaocruzzup/receitas-bolos/tree/main/imagens) foram retiradas dos seguintes [sites refêrencias das imagens](https://github.com/joaocruzzup/receitas-bolos/blob/main/Links-Receita%20de%20Bolo%20de%20Chocolate.txt)
