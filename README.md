@@ -4,8 +4,8 @@ Os algoritmos são detalhados em passo a passo a fim de tornar mais fácil acomp
 Destina-se a qualquer público que deseje aprender e/ou fazer um bolo.
 
 ## Utilização do repositório
-O repositório possui arquivos `.txt` com os algoritmos de receitas de bolo (ex.: [receita-bolo-chocolate.txt](https://github.com/joaocruzzup/receitas-bolos/blob/main/receita-bolo-chocolate.txt)
-, para acessar basta abrí-los.
+O repositório possui arquivos `.txt` com os algoritmos de receitas de bolo (ex.: [receita-bolo-chocolate.txt](https://github.com/joaocruzzup/receitas-bolos/blob/main/receita-bolo-chocolate.txt))
+, para acessar basta abrir os arquivos.
 
 Além disso, na pasta [imagens](https://github.com/joaocruzzup/receitas-bolos/tree/main/imagens) é possível visualizar as imagens dos bolos.
 
